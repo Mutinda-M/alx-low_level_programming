@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * puts - put string
  *
- * Return (o) - always success
+ * return (o) - always success
  */
 int main(void)
 {
