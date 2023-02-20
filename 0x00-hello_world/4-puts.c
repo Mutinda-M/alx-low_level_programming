@@ -5,7 +5,7 @@
  *
  * puts - put string
  *
- * return (o) - always success
+ * return - always success
  */
 int main(void)
 {
