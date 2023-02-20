@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *main - Entry
+ * Main - Entry point
  *
  * puts - put string
  *
