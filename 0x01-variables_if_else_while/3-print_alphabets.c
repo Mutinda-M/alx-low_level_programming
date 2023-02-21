@@ -8,14 +8,15 @@ int main(void)
 {
 	char c = 'a';
 	char d = 'A';
-	while (c <= 'z');
+
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
 	}
-	while (d <= 'A');
+	while (d <= 'Z')
 	{
-		putcher(d);
+		putchar(d);
 		d++;
 	}
 	putchar('\n');
