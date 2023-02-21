@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+ * main - print single numbers
+ *
+ * Return: returns 0 if correct
+ */
+int main(void)
+{
+	int i;
+	for (i = 0; i < 10; i++)
+	{
+		printf("%d\n",i);
+	}
+	return (o);
+}
