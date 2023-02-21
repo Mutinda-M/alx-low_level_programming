@@ -6,14 +6,18 @@
  */
 int main(void)
 {
-	for (int x = 'a'; x <= 'z'; x++);
+	char c = 'a';
+	char d = 'A';
+	while (c <= 'z');
 	{
-		putchar(x);
+		putchar(c);
+		c++;
 	}
-	for (int y = 'A'; y <= 'Z'; y++);
+	while (d <= 'A');
 	{
-		putcher(y);
+		putcher(d);
+		d++;
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
-}	
+}
