@@ -3,7 +3,7 @@
  *mul - multplies specified integers
  *@a - multiplies by b
  *@b - multiplies by a
- * Return:
+ * Return: returns the result of the operation
  */
 int mul(int a, int b)
 {
