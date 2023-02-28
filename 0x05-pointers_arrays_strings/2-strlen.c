@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * _strlen - calculates langth of string with pointer *s
- * @s: pointer to string
- * Return: returns 0nif successful
+ *int _strlen - gives length of the string
+ *@s: pointer to string
+ * Return: 0 when correct
  */
 int _strlen(char *s)
 {
-	int _strlen(*s);
-
+	int _strlen(char *s)
+	
 	return(0);
 }
