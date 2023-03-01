@@ -8,7 +8,7 @@ int _strlen(char *s)
 {
 	char *s;
 	int len;
-	s[] = "My first strlen"
+	s[100] = "My first strlen"
 	len = _strlen(s);
 	return(len);
 }
