@@ -4,7 +4,7 @@
  *
  * Return: 0always
  */
-int main(void);
+int main(void)
 {
 	char *str;
 
