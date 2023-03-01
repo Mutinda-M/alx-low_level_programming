@@ -6,9 +6,12 @@
  */
 int _strlen(char *s)
 {
-	char *s;
-	int len;
-	s[100] = "My first strlen"
-	len = _strlen(s);
-	return(len);
+	int i = 0;
+
+	while (*s != '\0')
+	{
+		i++;
+		s++;
+	}
+	return(i);
 }
